@@ -1,0 +1,4 @@
+User Management
+Diary Entry System
+Sentiment &  Mood Analysis
+Dashboard & Insights
